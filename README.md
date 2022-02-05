@@ -24,6 +24,7 @@ Issues:
 
 Plans:
 - Indexing the position on the diagram for each breed and incorporating into the legend
+- Improving the documentation and styling (it is currently unfortunately a mess!)
 
 Graphic:
 ![graph01022022](https://user-images.githubusercontent.com/77285010/152634365-5ebdee2d-113b-448e-b65c-a557762e87a7.png)
