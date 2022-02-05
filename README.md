@@ -20,6 +20,8 @@ Issues:
 - Might need to adjust some weighings a bit (as I don't own a dog myself, I am biased!)
 Plans:
 - Indexing the position on the diagram for each breed and incorporating into the legend
+Graphic:
+![graph01022022](https://user-images.githubusercontent.com/77285010/152634365-5ebdee2d-113b-448e-b65c-a557762e87a7.png)
 
 XH
 5 Feb 2022
