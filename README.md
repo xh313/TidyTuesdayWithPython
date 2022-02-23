@@ -12,7 +12,7 @@ come from me and does not represent my political opinions. Please assess the cre
 original data under your own judgements.*
 
 Data processing logic:
-- Raw data: (Link to the TidyTuesday Repository)[https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-22/freedom.csv]
+- Raw data: https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-22/freedom.csv]
 - Selecting the column of 'Status' (Free, partially free and not free) 
 - Extract the status of each country for every year (1995-2020), count the data and funnel into 3 dictionaries.
 - Show the trend of the number of countries that are in each status over the 26 years
