@@ -10,30 +10,28 @@ Tried Geopandas and Geoplots the first time! I'd say I would probably rather use
 
 Data processing logic:
 - Raw data: [https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-03-01/stations.csv]
-- Selecting the column of 'Status' (Free, partially free and not free) 
-- Extract the status of each country for every year (1995-2020), count the data and funnel into 3 dictionaries.
-- Show the trend of the number of countries that are in each status over the 26 years
+- Map the points on the country map using the LONGITUDE and LATITUDE columns.
+- Colour code the points using the column FUEL_TYPE_CODE distinguishing the fuel types.
 
 Visual features:
 - Designs:
-  -  Used mock-ggplot style with some modifications (facecolor etc.)
-  -  Translucent on-graph legend with sharp corners
-  -  All-filling solid colours with different shades
+  -  Map of the US (excluding Alaska and islands) as background with faint county borders
+  -  Translucent data points showing the density of the distribution clearly
+  -  Legend showing fuel types
 - Avenir typesetting! Avenir is the best
+- Also added Alt text
 
 Issues:
-- Sort of boring (I didn't have much time to make it fancier :(
-- Would probably work better if the graph is more horizontal (aka the height could be decreased)
-- The grids in the background are useless since the area fills don't have an alpha (quick fix)
+- Projection: whenever I employ projection methods the session crashes, so now the map looks kind of squished
+- The spots on the legend are so faint that it's hard to tell apart the difference in colours
+- The legend handles are currently acronym and might work better if I type in the full name
 
 Plans:
-- Add alphas to the filled area under curves
-- Change graph dimensions
-- Improving the documentation and styling
-- Alt text
+- Maybe fix the projection issue
+- Differentiate the colours more
 
 Graphic:
-![The distribution of alternative fuel stations across the US](https://user-images.githubusercontent.com/77285010/156272212-6f779af9-70fd-4352-81c1-7ccfa4a250e0.jpg)
+![A graphic showing the alternative fuel station distribution in the US. The shape of the country excluding Alaska and islands are shown on the background with bright points indicating the occurrences of the stations in different regions. The colours mark the type of alt fuel the stations supply. ](https://user-images.githubusercontent.com/77285010/156272212-6f779af9-70fd-4352-81c1-7ccfa4a250e0.jpg)
 
 XH
 01 Mar 2022
