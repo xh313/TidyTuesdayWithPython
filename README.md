@@ -33,10 +33,10 @@ Plans:
 - Alt text
 
 Graphic:
-![image](https://user-images.githubusercontent.com/77285010/155228929-2977f09b-6437-45b1-88c1-fc0185085030.png)
+![The distribution of alternative fuel stations across the US](https://user-images.githubusercontent.com/77285010/156272212-6f779af9-70fd-4352-81c1-7ccfa4a250e0.jpg)
 
 XH
-22 Feb 2022
+01 Mar 2022
 
 ## 22 Feb 2022
 
