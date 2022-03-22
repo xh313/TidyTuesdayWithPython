@@ -2,11 +2,50 @@
 My weekly (or monthly) data visualisation practicing using data from TidyTuesday, using Matplotlib and Python instead of R!
 
 # Projects
+
+## 22 Mar 2022
+
+Cheesiest plot I've made so far...
+
+** LOGGING IN PROCESS NOT FINISHED **
+
+Data processing logic:
+- Raw data: [https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-03-22/babynames.csv]
+- Map the points on the country map using the LONGITUDE and LATITUDE columns.
+- Colour code the points using the column FUEL_TYPE_CODE distinguishing the fuel types.
+
+Visual features:
+- Designs:
+  -  Map of the US (excluding Alaska and islands) as background with faint county borders
+  -  Translucent data points showing the density of the distribution clearly
+  -  Legend showing fuel types
+- Avenir typesetting! Avenir is the best
+- Also added Alt text
+
+Issues:
+- Projection: whenever I employ projection methods the session crashes, so now the map looks kind of squished
+- The spots on the legend are so faint that it's hard to tell apart the difference in colours
+- The legend handles are currently acronym and might work better if I type in the full name
+
+Plans:
+- Maybe fix the projection issue
+- Differentiate the colours more
+
+Graphic:
+![A graphic showing the trendiness of a selection of feminine baby names across the time span from 1960 to 2017.](https://user-images.githubusercontent.com/77285010/159595530-db8cbe5c-5565-4507-8b18-5a7ff6cd0c0e.png)
+
+XH
+22 Mar 2022
+
+
+## 08 Mar 2022
+
+**PENDING**
+
+
 ## 01 Mar 2022
 
 Tried Geopandas and Geoplots the first time! I'd say I would probably rather use seaborn the next time though...
-
-** LOGGING IN PROCESS NOT FINISHED **
 
 Data processing logic:
 - Raw data: [https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-03-01/stations.csv]
