@@ -3,6 +3,15 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 29 Mar 2022
+
+Plotly is so cool!
+
+** LOGGING IN PROCESS NOT FINISHED **
+
+![ncaafunds](https://user-images.githubusercontent.com/77285010/160757774-009472e4-ab94-4876-93d4-a698e16894c4.png)
+
+
 ## 22 Mar 2022
 
 Cheesiest plot I've made so far...
