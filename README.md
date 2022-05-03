@@ -5,7 +5,9 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 ## 3 May 2022
 After a month of random COVID disruptions and UCLA DataFest I am finally back to TidyTuesday!
+
 Today's raw data: https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-05-03
+
 Graphic:
 ![image](https://user-images.githubusercontent.com/77285010/166563044-82c86dd3-f435-4d74-87f8-190df2046339.png)
 
