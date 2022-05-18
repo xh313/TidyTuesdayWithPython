@@ -3,6 +3,21 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 17 May 2022
+Eurovision! And the drastic contrast between 2022 and 2021.
+
+2021:
+![image](https://user-images.githubusercontent.com/77285010/168933051-b9dd7e9a-8796-4dc8-879d-8d03ee2457d5.png)
+
+Whereas 2022:
+![image](https://user-images.githubusercontent.com/77285010/168933069-18ee2f83-b542-4e1b-99e2-e5cf932eaf88.png)
+
+All of our best wishes go to Ukraine <3
+
+Plotted on Python using Basemap in Matplotlib and Geopy.
+
+Code: [Click here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday17052022.ipynb)
+
 ## 3 May 2022
 After a month of random COVID disruptions and UCLA DataFest I am finally back to TidyTuesday!
 
