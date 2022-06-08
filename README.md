@@ -6,6 +6,9 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 ## 7 June 2022
 Holding companies donating to anti-LGBTQ politicians accountable.
 ![image](https://user-images.githubusercontent.com/77285010/172539932-98749a80-a3f1-42e1-8570-26daa07c6f28.png)
+Condensed:
+![image](https://user-images.githubusercontent.com/77285010/172540033-f1fd89da-2932-4224-a0bb-62c658a997ef.png)
+
 
 
 Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday07062022.ipynb)
