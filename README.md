@@ -3,6 +3,18 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 7 June 2022
+Holding companies donating to anti-LGBTQ politicians accountable.
+![image](https://user-images.githubusercontent.com/77285010/172507657-e376990b-c80e-4e97-94d1-025b21ea1f6f.png)
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday07062022.ipynb)
+
+## 24 May 2022
+Women's rugby.
+![image](https://user-images.githubusercontent.com/77285010/172507547-2bd106f1-24d0-430c-83f6-383b9fc0f744.png)
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday24052022.ipynb)
+
 ## 17 May 2022
 Eurovision! And the drastic contrast between 2022 and 2021.
 
