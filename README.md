@@ -3,6 +3,12 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 14 June 2022
+The data set is on droughts in the US but I focused on California. It isn't going well...
+![IMG_6613](https://user-images.githubusercontent.com/77285010/173525177-0d7c189f-62a7-4e32-b12a-fa870e78a982.JPEG)
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday140622.ipynb)
+
 ## 7 June 2022
 Holding companies donating to anti-LGBTQ politicians accountable.
 ![image](https://user-images.githubusercontent.com/77285010/172539932-98749a80-a3f1-42e1-8570-26daa07c6f28.png)
