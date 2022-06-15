@@ -4,8 +4,12 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 # Projects
 
 ## 14 June 2022
-The data set is on droughts in the US but I focused on California. It isn't going well...
+The data set is on droughts in the US but I focused on California in this part. It isn't going well...
 ![IMG_6613](https://user-images.githubusercontent.com/77285010/173525177-0d7c189f-62a7-4e32-b12a-fa870e78a982.JPEG)
+
+Then I also looked into the general trend for every state in the US but this is kind of unclear at first glance...
+![us_droughts](https://user-images.githubusercontent.com/77285010/173766435-c2842e5a-4815-4901-bbb4-e971f3f9c9e6.jpg)
+
 
 Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday140622.ipynb)
 
