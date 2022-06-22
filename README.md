@@ -4,7 +4,7 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 # Projects
 
 ## 21 June 2022
-In honour of Juneteenth :)
+In honour of Juneteenth :) did a lot of text processing stuff to brush up my regex.
 ![image](https://user-images.githubusercontent.com/77285010/174964887-70fd1b09-d77a-407f-90d9-d83b8b5ee55e.png)
 
 Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday21062022.ipynb)
