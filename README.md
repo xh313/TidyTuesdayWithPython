@@ -3,6 +3,13 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 28 June 2022
+UK pay gap.
+![image](https://user-images.githubusercontent.com/77285010/176596978-99360163-e0c4-4cb1-8d6c-5cb0905eb0c2.png)
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday28062022.ipynb)
+
+
 ## 21 June 2022
 In honour of Juneteenth :) did a lot of text processing stuff to brush up my regex.
 ![image](https://user-images.githubusercontent.com/77285010/174964887-70fd1b09-d77a-407f-90d9-d83b8b5ee55e.png)
