@@ -3,6 +3,13 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 5 Jul 2022
+SF rent and lease distribution.
+I tried to do an animation and failed miserably. I still have to get up to work on Wednesday so I'd try again next week lol.
+![image](https://user-images.githubusercontent.com/77285010/177603951-a97a16ef-d9f9-4bf4-8b54-83d9f5414523.png)
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday05072022.ipynb)
+
 ## 28 June 2022
 UK pay gap.
 ![image](https://user-images.githubusercontent.com/77285010/176596978-99360163-e0c4-4cb1-8d6c-5cb0905eb0c2.png)
