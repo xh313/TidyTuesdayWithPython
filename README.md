@@ -3,6 +3,14 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 12 Jul 2022
+European flights. I don't know what I'm doing. Ideally this highlights the hit of COVID on air traffic.
+
+![image](https://user-images.githubusercontent.com/77285010/178685955-5d32be39-3327-4355-8e84-682df76e9e95.png)
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday12072022.ipynb)
+
+
 ## 5 Jul 2022
 SF rent and lease distribution.
 I tried to do an animation and failed miserably. 
