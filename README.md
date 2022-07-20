@@ -3,6 +3,15 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 19 Jul 2022
+This data set is so interesting that I got so obsessed with wrangling it and forgot about visualisation...
+
+Here is a meaningless graph just for fun XD
+
+![image](https://user-images.githubusercontent.com/77285010/180100441-960b7acb-c61a-4dc2-b882-1a4fecb0b45e.png)
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday19072022.ipynb)
+
 ## 12 Jul 2022
 European flights. I don't know what I'm doing. Ideally this highlights the hit of COVID on air traffic.
 
