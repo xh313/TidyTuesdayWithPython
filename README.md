@@ -3,6 +3,15 @@ My weekly (or monthly) data visualisation practicing using data from TidyTuesday
 
 # Projects
 
+## 2 Aug 2022
+Frogs spotted in Oregon. I experimented with circle packing but it's so much pain that I would probably never do it again.
+Anyway here's the code and the pic.
+
+![frogs](https://user-images.githubusercontent.com/77285010/182714887-54e0da04-e166-4494-9ba3-f829796f83d2.png)
+
+
+Code: [Here](https://github.com/xh313/TidyTuesdayWithPython/blob/main/TidyTuesday02082022.ipynb)
+
 ## 19 Jul 2022
 This data set is so interesting that I got so obsessed with wrangling it and forgot about visualisation...
 
